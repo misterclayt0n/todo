@@ -18,6 +18,7 @@
 - [ ] neural network  
 - [ ] browser engine  
 - [ ] lsp
+- [ ] something with hot reload
 
 ### algorithms
 - [ ] fast fourier transform (FFT)
