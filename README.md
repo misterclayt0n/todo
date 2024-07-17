@@ -19,6 +19,9 @@
 - [ ] browser engine  
 - [ ] lsp
 
+### algorithms
+- [ ] fast fourier transform (FFT)
+
 ### mathematics
 - [ ] linear algebra
     - [ ] [3b1b - essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
