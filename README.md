@@ -19,6 +19,7 @@
 - [ ] browser engine
 - [ ] lsp
 - [ ] something with hot reload
+- [ ] game engine
 
 ### algorithms
 - [ ] fast fourier transform (FFT)
