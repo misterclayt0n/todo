@@ -20,6 +20,7 @@
 - [ ] lsp
 - [ ] something with hot reload
 - [ ] game engine
+- [ ] video to ascii
 
 ### algorithms
 - [ ] fast fourier transform (FFT)
