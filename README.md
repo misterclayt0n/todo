@@ -21,6 +21,8 @@
 - [ ] something with hot reload
 - [ ] game engine
 - [ ] video to ascii
+- [ ] blockchain
+- [ ] debugger 
 
 ### algorithms
 - [ ] fast fourier transform (FFT)
