@@ -23,6 +23,7 @@
 - [ ] video to ascii
 - [ ] blockchain
 - [ ] debugger 
+- [ ] multiplayer game
 
 ### algorithms
 - [ ] fast fourier transform (FFT)
