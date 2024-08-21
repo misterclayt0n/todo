@@ -25,6 +25,7 @@
 - [ ] debugger
 - [ ] multiplayer game
 - [ ] my own speech to text API
+- [ ] computational vision
 
 ### algorithms
 - [ ] fast fourier transform (FFT)
