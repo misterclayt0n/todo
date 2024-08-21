@@ -24,6 +24,7 @@
 - [ ] blockchain
 - [ ] debugger
 - [ ] multiplayer game
+- [ ] my own speech to text API
 
 ### algorithms
 - [ ] fast fourier transform (FFT)
