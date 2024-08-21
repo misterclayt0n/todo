@@ -20,7 +20,7 @@
 - [ ] lsp
 - [ ] something with hot reload
 - [ ] game engine
-- [ ] [video to ascii](https://github.com/misterclayt0n/video-to-ascii)
+- [x] [video to ascii](https://github.com/misterclayt0n/video-to-ascii)
 - [ ] blockchain
 - [ ] debugger
 - [ ] multiplayer game
