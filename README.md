@@ -20,9 +20,9 @@
 - [ ] lsp
 - [ ] something with hot reload
 - [ ] game engine
-- [ ] video to ascii
+- [ ] [video to ascii](https://github.com/misterclayt0n/video-to-ascii)
 - [ ] blockchain
-- [ ] debugger 
+- [ ] debugger
 - [ ] multiplayer game
 
 ### algorithms
@@ -44,7 +44,7 @@
     - book: introduction to the theory of computation
 6. number theory and cryptography (prime numbers, modular arithmetic, cryptographic algorithms)
     - course: [coursera - cryptography 1](https://www.coursera.org/learn/crypto)
-  
+
 ### finances
 1. mathematical finance (compound interest calculations, internal rate of return (IRR) calculation, net present value (NPV) calculation, PRICE method, SAC method, bullet payment method, converting annual interest rates to monthly compound rates)
 2. investment funds and capital markets (multimarket funds, currency funds, equity funds, fixed income funds, FIDC, FIP, FII)
