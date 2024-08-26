@@ -26,6 +26,7 @@
 - [ ] multiplayer game
 - [ ] my own speech to text API
 - [ ] computational vision
+- [ ] algorithm visualizer
 
 ### algorithms
 - [ ] fast fourier transform (FFT)
