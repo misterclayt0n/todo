@@ -31,6 +31,10 @@
 ### algorithms
 - [ ] fast fourier transform (FFT)
 
+### courses/books
+- [ ] full cycle -> soft part of software engineering
+- [ ] full cycle go course -> learn more about the goat
+
 ### mathematics
 1. discrete mathematics (logic, set theory, combinatorics, graph theory, algorithms, number theory, proof techniques)
     - book: discrete mathematics and it's applications
