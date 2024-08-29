@@ -27,6 +27,7 @@
 - [ ] my own speech to text API
 - [ ] computational vision
 - [ ] algorithm visualizer
+- [ ] hash map from scratch
 
 ### algorithms
 - [ ] fast fourier transform (FFT)
