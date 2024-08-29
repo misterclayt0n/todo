@@ -17,7 +17,7 @@
 - [ ] web server only using TCP
 - [ ] neural network
 - [ ] browser engine
-- [ ] lsp
+- [x] lsp
 - [ ] something with hot reload
 - [ ] game engine
 - [x] [video to ascii](https://github.com/misterclayt0n/video-to-ascii)
