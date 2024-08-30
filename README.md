@@ -27,10 +27,10 @@
 - [ ] my own speech to text API
 - [ ] computational vision
 - [ ] algorithm visualizer
-- [ ] hash map from scratch
 
-### algorithms
+### [algorithms](https://github.com/misterclayt0n/algorithms)
 - [ ] fast fourier transform (FFT)
+- [ ] hash map from scratch
 
 ### courses/books
 - [ ] full cycle -> soft part of software engineering
