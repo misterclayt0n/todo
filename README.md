@@ -30,7 +30,7 @@
 
 ### [algorithms](https://github.com/misterclayt0n/algorithms)
 - [ ] fast fourier transform (FFT)
-- [ ] hash map from scratch
+- [x] hash map from scratch
 - [ ] log-structured merge-tree
 
 ### courses/books
