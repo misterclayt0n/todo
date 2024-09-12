@@ -32,6 +32,8 @@
 - [ ] fast fourier transform (FFT)
 - [x] hash map from scratch
 - [ ] log-structured merge-tree
+- [ ] KNN
+- [ ] Kmeans
 
 ### courses/books
 - [ ] full cycle -> soft part of software engineering
