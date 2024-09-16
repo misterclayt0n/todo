@@ -34,6 +34,7 @@
 - [ ] log-structured merge-tree
 - [ ] KNN
 - [ ] Kmeans
+- [ ] Rope 
 
 ### courses/books
 - [ ] full cycle -> soft part of software engineering
