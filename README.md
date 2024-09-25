@@ -35,10 +35,13 @@
 - [ ] KNN
 - [ ] Kmeans
 - [ ] Rope 
+- [ ] Merkle tree
 
-### courses/books
+### courses/books/random topics
 - [ ] full cycle -> soft part of software engineering
 - [ ] full cycle go course -> learn more about the goat
+- [ ] htmx
+- [ ] wasm
 
 ### mathematics
 1. discrete mathematics (logic, set theory, combinatorics, graph theory, algorithms, number theory, proof techniques)
