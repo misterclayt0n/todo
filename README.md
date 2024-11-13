@@ -27,6 +27,7 @@
 - [ ] my own speech to text API
 - [ ] computational vision
 - [ ] algorithm visualizer
+- [ ] minecraft clone
 
 ### [algorithms](https://github.com/misterclayt0n/algorithms)
 - [ ] fast fourier transform (FFT)
