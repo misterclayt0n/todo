@@ -1,5 +1,5 @@
 ### projects
-- [ ] clayton text editor
+- [ ] [clayton text editor](https://github.com/misterclayt0n/the-editor)
 - [ ] 2d game space invaders (raylib, sdl, your own engine or something)
 - [x] [cpu emulator](https://github.com/misterclayt0n/clayton-cpu)
 - [ ] C compiler
